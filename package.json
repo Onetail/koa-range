@@ -1,6 +1,6 @@
 {
-  "name": "koa-range",
-  "version": "0.3.0",
+  "name": "@waynechu/koa-range",
+  "version": "0.4.0",
   "description": "range request implementation for koa",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,7 @@
     "koa",
     "http"
   ],
-  "author": "Yorkie Neil <yorkiefixer@gmail.com>",
+  "author": "Wayne Chu <onetail@github.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/yorkie/koa-range/issues"
@@ -33,7 +33,7 @@
   "dependencies": {
     "stream-slice": "^0.1.2"
   },
-  "engines" : {
-    "node" : ">=7"
+  "engines": {
+    "node": ">=7"
   }
 }
